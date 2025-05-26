@@ -44,10 +44,10 @@ Lunaris enfrentará inimigos comuns e lendários em sua jornada[cite: 9].
 
 ## Contato
 
-* **Carolina de Andrade Franzolin** - RA 2224105045 [cite: 1]
-* **Gabriel Oliveira Santos** - RA 2224105061 [cite: 1]
-* **Inael Rocha da Luz** - RA 2224101748 [cite: 1]
-* **Luiz Miguel Souza** - RA 2224105850 [cite: 1]
+* **Carolina de Andrade Franzolin** - RA 2224105045 
+* **Gabriel Oliveira Santos** - RA 2224105061
+* **Inael Rocha da Luz** - RA 2224101748 
+* **Luiz Miguel Souza** - RA 2224105850 
 
 ---
 

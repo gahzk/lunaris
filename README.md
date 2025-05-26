@@ -49,4 +49,4 @@ Lunaris enfrentará inimigos comuns e lendários em sua jornada
 
 ## Licença
 
-Este projeto é exclusivamente para fins educacionais e acadêmicos na disciplina de Jogos Digitais da [Nome da Faculdade]. O código-fonte pode ser estudado e modificado, mas não deve ser distribuído ou utilizado comercialmente sem permissão expressa dos autores.
+Este projeto é exclusivamente para fins educacionais e acadêmicos na disciplina de Jogos Digitais da Uninove. O código-fonte pode ser estudado e modificado, mas não deve ser distribuído ou utilizado comercialmente sem permissão expressa dos autores.

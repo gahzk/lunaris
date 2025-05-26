@@ -1,6 +1,6 @@
 # Lunaris: O Caminho de Casa
 
-Um jogo de plataforma simples desenvolvido na Godot Engine para a disciplina de Jogos Digitais na [Nome da Sua Faculdade].
+Um jogo de plataforma simples desenvolvido na Godot Engine para a disciplina de Jogos Digitais na Uninove.
 
 ---
 
@@ -12,15 +12,11 @@ Um jogo de plataforma simples desenvolvido na Godot Engine para a disciplina de 
 
 Lunaris é um gato pixelizado com animações.
 
-### Esboço do Personagem
-
-![Personagem](docs/img/personagem.png)
-
 ## Inimigos
 
-Lunaris enfrentará inimigos comuns e lendários em sua jornada[cite: 9].
-* **Cachorros da Tribo Solar:** Inimigos comuns[cite: 9].
-* **Garoto Encrenqueiro:** Um inimigo lendário que não gosta de gatos[cite: 9].
+Lunaris enfrentará inimigos comuns e lendários em sua jornada
+* **Cachorros da Tribo Solar:** Inimigos comuns.
+* **Garoto Encrenqueiro:** Um inimigo lendário que não gosta de gatos.
 
 ## Funcionalidades Implementadas
 
@@ -33,14 +29,14 @@ Lunaris enfrentará inimigos comuns e lendários em sua jornada[cite: 9].
 ## Como Rodar o Projeto
 
 1.  **Pré-requisitos:**
-    * Godot Engine v[Versão da Godot que você está usando, ex: 4.2.1] ou superior.
+    * Godot Engine v3.5.3 ou superior.
 2.  **Instruções:**
     * Clone ou baixe este repositório.
     * Abra a Godot Engine.
     * Na tela inicial da Godot, clique em "Importar".
     * Navegue até a pasta onde você baixou o projeto e selecione o arquivo `project.godot`.
     * Com o projeto importado, selecione-o na lista e clique em "Editar".
-    * Pressione F5 para rodar o jogo.
+    * Pressione no icone de play no canto superior direito.
 
 ## Contato
 

@@ -1,19 +1,28 @@
 PROCESSO CRIATIVO E EVOLUÇÃO DO PROJETO
-Este projeto de jogo digital, "Lunaris: O Caminho de Casa", é o resultado de uma jornada de aprendizado e experimentação. O desenvolvimento passou por diversas fases, culminando na versão atual que representa nosso entendimento e habilidades adquiridos.
+Este projeto de jogo digital, "Lunaris: O Caminho de Casa", é o resultado de uma jornada de aprendizado e experimentação intensos. Conciliar o desenvolvimento com as demandas do trabalho e estudo tornou cada etapa um desafio considerável, exigindo dedicação e gestão de tempo rigorosa. O desenvolvimento passou por diversas fases, culminando na versão atual (v7), que representa nosso entendimento e habilidades adquiridos ao longo de um processo árduo, mas recompensador.
 
-A Gênese da Ideia:
-Tudo começou com a concepção de uma ideia simples, mas cativante: um jogo de plataforma focado na jornada de um personagem carismático em busca de seu lar. A inspiração inicial nos guiou a explorar conceitos de narrativa e desafios que se encaixassem no gênero de plataforma, buscando criar uma experiência acessível e divertida.
+v0: A Gênese da Ideia e Idealização
+Tudo começou com a concepção de uma ideia simples, mas cativante: um jogo de plataforma focado na jornada de um personagem carismático em busca de seu lar. A inspiração inicial nos guiou a explorar conceitos de narrativa e desafios que se encaixassem no gênero, buscando uma experiência acessível e divertida, mesmo cientes das dificuldades que teríamos para conciliar com outras responsabilidades.
 
-A Escolha da Godot Engine e o Início do Aprendizado (Versão 1.0):
-Com a ideia em mente, a próxima etapa foi selecionar a ferramenta de desenvolvimento. Optamos pela Godot Engine, que, por ser de código aberto e ter uma comunidade crescente, parecia a escolha ideal para um projeto universitário de iniciantes. Esta primeira versão (1.0) foi essencialmente uma fase de familiarização. Nela, o foco foi aprender os fundamentos da Godot: entender a estrutura de nós (nodes), as cenas, o básico do GDScript, e como importar e manipular assets simples. Foi um período de muita exploração e pequenas conquistas.
+v1: Escolha da Ferramenta e Primeiros Contatos (Fundamentos)
+Com a ideia em mente, optamos pela Godot Engine devido à sua natureza de código aberto e comunidade ativa. Esta primeira versão foi focada na familiarização com o motor: entendimento da estrutura de nós, cenas, o básico do GDScript e importação de assets simples, um aprendizado inicial crucial.
 
-Primeiros Protótipos e Desafios (Versão 2.0):
-A partir da versão 2.0, começamos a transformar o aprendizado em protótipos funcionais. Nesta fase, dedicamo-nos à implementação das mecânicas mais básicas do jogo de plataforma, como a movimentação inicial do personagem (andar e pular) e a interação rudimentar com o ambiente. Enfrentamos os primeiros desafios de colisão, gerenciamento de estados do jogador e a organização inicial do código, que ainda era bastante procedural. Cenários e bonecos foram modelados de forma simples para testar as ideias.
+v2: Protótipo Inicial e Mecânicas Cruas (O Esqueleto)
+A partir daqui, transformamos o aprendizado inicial em um protótipo funcional mínimo. Implementamos a movimentação básica do personagem (andar e pular) e interações rudimentares com o ambiente, como colisões simples. Foi o primeiro teste prático das nossas ideias.
 
-Refinamento e Estruturação (Versão 3.0):
-A versão 3.0 marcou um ponto de virada no desenvolvimento. Com uma compreensão mais sólida da Godot e do GDScript, pudemos focar no refinamento das mecânicas existentes e na estruturação do projeto. Começamos a pensar em como o código poderia ser mais organizado, como gerenciar as animações de forma mais eficiente e como as fases seriam construídas. Esta versão nos permitiu consolidar o conhecimento e preparar o terreno para a implementação das funcionalidades mais complexas.
+v3: Estruturação Mínima e Primeiros Assets Visuais (Primeira Forma)
+Nesta fase, buscamos uma organização inicial do código, ainda bastante procedural, e começamos a gerenciar estados básicos do jogador. Cenários e o personagem foram modelados de forma simples para testar a jogabilidade e dar uma primeira identidade visual ao projeto.
 
-A Versão Final: "Lunaris: O Caminho de Casa" (Versão 4.0 - Atual):
-A versão 4.0, em desenvolvimento, é a culminação de todo esse processo. Aqui, estamos aplicando as lições aprendidas, otimizando o código para maior clareza e funcionalidade, e implementando os detalhes que trarão vida ao mundo de Lunaris. Esta é a versão que incorpora as animações detalhadas do personagem, as lógicas dos inimigos, a interface do usuário e o design de fases mais elaborado, visando a experiência completa que idealizamos para o jogo.
+v4: Refinamento de Movimentação e Animações Iniciais (Dando Vida)
+Com uma base mais sólida, focamos em refinar as mecânicas de movimentação para torná-las mais fluidas. Introduzimos o sistema de animação básico para o personagem principal, Lunaris, começando a dar-lhe mais personalidade.
 
-Este caminho de desenvolvimento iterativo nos permitiu não apenas criar um jogo, mas também aprofundar nossos conhecimentos em jogos digitais, programação e trabalho em equipe, construindo a base para futuros projetos.
+v5: Inimigos, Coletáveis e Desafios Iniciais (Interação e Perigo)
+Esta versão introduziu os primeiros antagonistas, com a lógica inicial dos "Cachorros da Tribo Solar". Também prototipamos o sistema de coleta de itens, como moedas e vidas, adicionando camadas de desafio e recompensa.
+
+v6: Design de Níveis Preliminar e Interface do Usuário (Construindo o Mundo)
+Começamos a esboçar as diferentes áreas do jogo – o Bosque dos Sussurros, a Ponte dos Destinos e o Vale dos Ecos. Implementamos também a interface do usuário (UI) básica, mostrando informações essenciais como vida e pontuação.
+
+v7: Versão Final – Integração, Polimento e Superação (O Caminho Concluído)
+A versão atual e última a ser programada é a culminação de todo o processo. Aplicamos as lições aprendidas, otimizando código e implementando detalhes finais como as animações completas, a lógica do "Garoto Encrenqueiro", ajustes na UI e o design de fases mais elaborado. Esta fase representa a superação dos desafios de desenvolvimento em meio a uma rotina atribulada, buscando entregar a experiência mais próxima da idealizada para "Lunaris: O Caminho de Casa".
+
+Este caminho de desenvolvimento iterativo, apesar das dificuldades, nos permitiu não apenas criar um jogo, mas também aprofundar nossos conhecimentos em jogos digitais, programação e resiliência, construindo uma base sólida para futuros projetos.

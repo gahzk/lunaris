@@ -16,7 +16,6 @@ Lunaris é um gato pixelizado com animações.
 
 Lunaris enfrentará inimigos comuns e lendários em sua jornada
 * **Cachorros da Tribo Solar:** Inimigos comuns.
-* **Garoto Encrenqueiro:** Um inimigo lendário que não gosta de gatos.
 
 ## Funcionalidades Implementadas
 
